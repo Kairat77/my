@@ -21,6 +21,9 @@ body {
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
 }
+h1 {
+  color: white;
+}
 
 #drag-container, #spin-container {
   position: relative;
